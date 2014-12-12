@@ -1,6 +1,6 @@
 #DARUDEJS - NODESTORM
 
-swag on that 420 dank trance shit yolo.
+420 dank trance yolo
 
 
 ## How do?
