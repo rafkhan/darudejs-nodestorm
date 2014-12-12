@@ -1,12 +1,12 @@
 {
   "name": "darudejs-nodestorm",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Trance glory.",
-  "main": "index.js",
+  "main": "darude.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Rafael Khan",
   "license": "MIT",
   "dependencies": {
     "lame": "^1.1.1",
