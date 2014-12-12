@@ -1,0 +1,15 @@
+{
+  "name": "darudejs-nodestorm",
+  "version": "0.0.0",
+  "description": "Trance glory.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "lame": "^1.1.1",
+    "speaker": "^0.2.1"
+  }
+}
