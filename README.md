@@ -1,7 +1,6 @@
 #DARUDEJS - NODESTORM
 
-420 dank trance yolo
-
+This shit honestly just plays sandstorm by darude when you import it.
 
 ## How do?
 
